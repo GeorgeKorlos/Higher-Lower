@@ -1,0 +1,1 @@
+This is a command-line game based on the popular "Higher or Lower" concept. The user is presented with two social media accounts, and they must guess which account has more followers. The game continues until the user makes an incorrect guess. The score is tracked throughout the game.
